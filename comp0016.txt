@@ -1,0 +1,34 @@
+Updated MosCow list for TAs 
+
+code review with client
+
+Health care - open source
+
+APEL licence
+
+legal rules for data
+
+public case study
+
+having things public - contact it with client
+
+individual report - personal contribution
+
+write a publish paper - acm templete 
+
+schedule meeting with Dean?
+
+===marking procedure
+demo with TA and Fu yun in the last week of term
+
+====security
+json check file validity
+
+====meeting
+subtitles? needs uploading, GDPR issues
+what video do we use for the final video
+requirements about the file tree
+Code review
+Project review
+
+
